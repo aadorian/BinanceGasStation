@@ -8,3 +8,6 @@ The Metacoin itself pays for all transactions.
 10 Steps to install and try
 
 https://docs.google.com/document/d/1oV9rk79l68e5dJlwqhlyJ6r6zO5ENsn7pwT_44jtmfE/edit#
+
+More detail doc
+https://docs.google.com/document/d/1r_OFymOWse6FPQEOdP4oa9P1SK7jx69oNnar8WHC_2s/edit#
